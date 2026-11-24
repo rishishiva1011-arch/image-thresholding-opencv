@@ -91,8 +91,6 @@ Compare the results obtained from Global, Adaptive, and Otsu's thresholding meth
 **Register No:** 212225240118
 
 
-## Output
-
 ### Original Image
 ```
 import cv2
@@ -106,6 +104,7 @@ plt.title("Original Image")
 plt.axis('off')
 ```
 
+<img width="1680" height="1224" alt="image" src="https://github.com/user-attachments/assets/43105c6e-4c8e-4d66-9d4b-6d1f6814c260" />
 
 
 ### ORIGINAL grayscale image
@@ -117,6 +116,7 @@ plt.title("Grayscale Image")
 plt.axis('off')
 ```
 
+<img width="1686" height="1224" alt="image" src="https://github.com/user-attachments/assets/79763e58-0719-4559-aa74-b4648773051d" />
 
 
 ### Global Thresholding
@@ -129,6 +129,9 @@ plt.axis("off")
 plt.show()
 ```
 
+<img width="1671" height="1221" alt="image" src="https://github.com/user-attachments/assets/d90a0b02-3302-4f31-a6e7-f7f11b8e0258" />
+
+
 
 ### Adaptive Thresholding
 
@@ -140,6 +143,7 @@ plt.axis("off")
 plt.show()
 ```
 
+<img width="1665" height="1221" alt="image" src="https://github.com/user-attachments/assets/2112f2ba-17dc-4cbc-9378-fab69cc8bbc0" />
 
 
 ### Otsu's Thresholding
@@ -152,6 +156,7 @@ plt.axis("off")
 plt.show()
 ```
 
+<img width="1671" height="1212" alt="image" src="https://github.com/user-attachments/assets/713f72bf-b4ab-4590-835c-1988442ad2b6" />
 
 
 
