@@ -107,7 +107,7 @@ plt.axis('off')
 <img width="1680" height="1224" alt="image" src="https://github.com/user-attachments/assets/43105c6e-4c8e-4d66-9d4b-6d1f6814c260" />
 
 
-### ORIGINAL grayscale image
+### Original grayscale image
 
 ```
 gray_image = cv2.cvtColor(image, cv2.COLOR_RGB2GRAY)  # Convert to grayscale
